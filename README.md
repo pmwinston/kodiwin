@@ -1,2 +1,0 @@
-# kodiwin
-kodiwin repository
