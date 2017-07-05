@@ -2,6 +2,176 @@
 
 
 
+#EXTINF:-1,FOX NEWS
+
+http://62.167.57.5:1009/play/a003
+
+#EXTINF:-1,Fox News HD
+
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1,Fox 23 News
+
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1,HBO HD
+
+http://158.69.24.208:8081/live/Franciscocesar/DjFHC84848/473.ts
+
+#EXTINF:-1,HBO SD
+
+http://158.69.24.208:8081/live/Franciscocesar/DjFHC84848/1031.ts
+
+#EXTINF:-1,Investigation Discovery UK
+
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3465.ts
+
+#EXTINF:-1,Weather Nation Tv
+
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1,Weather Channel
+
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1,ABC NEWS
+
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1,Al Jazeera
+
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1,BBC WORLD NEWS
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1,Bloomberg
+
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1,CBN NEWS
+
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1,CBN NEWS
+
+http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
+#EXTINF:-1,C-SPAN
+
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1,C-SPAN 2
+
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1,C-SPAN 3
+
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1,CNN International
+
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
+
+#EXTINF:-1,CNN International
+
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8910.ts
+
+#EXTINF:-1,DW USA
+
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+
+#EXTINF:-1,DW NEWS
+
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1,InfoWars
+
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1,Fox News Radio
+
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+
+#EXTINF:-1,FOX NEWS 23
+
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1,FOX 25 NEWS
+
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+
+#EXTINF:-1,FOX 30 NEWS
+
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1,FOX 59 NEWS
+
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+
+#EXTINF:-1,France 24
+
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+
+#EXTINF:-1,NEWSMAX TV
+
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
+
+#EXTINF:-1,MSNBC
+
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1,MSNBC
+
+http://sky@tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8?sd=10
+
+#EXTINF:-1,Press TV
+
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+
+#EXTINF:-1,RT Documentary
+
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+
+#EXTINF:-1,Rusia Today
+
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+
+#EXTINF:-1,Sky NEWS
+
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skyNEWS/1404/live/04.m3u8
+
+#EXTINF:-1,Channel NEWS Asia
+
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1,VoA
+
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1,China CCTV 13
+
+http://61.155.167.11/live/cctv13.m3u8
+
+#EXTINF:-1,Syria News
+
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+#EXTINF:-1,Nigeria TVC News
+
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+
+#EXTINF:-1,TRT WORLD
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1,WGN Chicago
+
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="London Live" group-title="Entertainment - בידור" tvg-logo="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/618/?sURL=http://offlinehbpl.hbpl.co.uk/News/OMC/LondonLiveWeb-20131023010320820.jpg",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
