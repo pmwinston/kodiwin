@@ -258,8 +258,8 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=21960827
 
  
 
-#EXTINF:-1 tvg-id="Angel TV"
-group-title="Entertainment - בידור"
+#EXTINF:-1 tvg-id="Angel TV" group-title="Entertainment
+- בידור"
 tvg-logo="http://www.revivaltvonline.com/images/Logo/angels-tv.jpg",Angel
 TV
 
@@ -349,20 +349,20 @@ http://live-hls.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 
  
 
-#EXTINF:-1 tvg-id="Retro music TV" group-title="Music
-- מוזיקה"
+#EXTINF:-1 tvg-id="Retro music TV"
+group-title="Music - מוזיקה"
 tvg-logo="http://files.dvb-s.webnode.com/200000463-82105830a6/retro_music_tv.jpg",Retro
 music TV
 
 rtmp://stream.mediawork.cz/retrotv/ playpath=retrotvHQ1
-swfUrl=http://vjs.zencdn.net/4.10/video-js.swf pageUrl=http://www.retromusic.cz/index.php?language=en
+swfUrl=http://vjs.zencdn.net/4.10/video-js.swf
+pageUrl=http://www.retromusic.cz/index.php?language=en
 
  
 
 #EXTINF:-1 tvg-id="Ocko Gold"
 group-title="Music - מוזיקה"
-tvg-logo="http://www.ktct.cz/files/images/loga/ocko-gold.jpg",Ocko
-Gold
+tvg-logo="http://www.ktct.cz/files/images/loga/ocko-gold.jpg",Ocko Gold
 
 http://se02.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
 
@@ -418,8 +418,8 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
  
 
-#EXTINF:-1 tvg-id="CMC TV country" group-title="Music
-- מוזיקה"
+#EXTINF:-1 tvg-id="CMC TV country"
+group-title="Music - מוזיקה"
 tvg-logo="",CMC TV country
 
 rtmp://cmctv.flash.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV
@@ -463,8 +463,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.
 
  
 
-#EXTINF:-1 tvg-id="1music.ro"
-group-title="Music - מוזיקה"
+#EXTINF:-1 tvg-id="1music.ro" group-title="Music
+- מוזיקה"
 tvg-logo="http://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg",1music.ro
 
 http://127.0.0.1:65007/?url=http%3A//www.livestream.com/1_music_channel/&mode=3
@@ -514,8 +514,8 @@ rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
 
  
 
-#EXTINF:-1 tvg-id="eska party"
-group-title="Music - מוזיקה"
+#EXTINF:-1 tvg-id="eska party" group-title="Music
+- מוזיקה"
 tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",eska
 party
 
@@ -580,8 +580,7 @@ group-title="Music - מוזיקה"
 tvg-logo="http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png",Virgin
 TV
 
-rtmp://fms.105.net:1935/live/ playpath=virgin1
-swfUrl=http://www.widih.org/player.swf
+rtmp://fms.105.net:1935/live/ playpath=virgin1 swfUrl=http://www.widih.org/player.swf
 pageUrl=http://www.widih.org/watch-tv/357/virgin-1 live=1 timeout=10
 
  
@@ -619,8 +618,7 @@ group-title="Music - מוזיקה"
 tvg-logo="http://www.lyngsat-logo.com/hires/ss/supersonic_tv_al.png",Supersonic
 TV
 
-rtmp://str103.setplex.net:1935/228 playpath=stv_online
-swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf
+rtmp://str103.setplex.net:1935/228 playpath=stv_online swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf
 live=1 pageUrl=http://online.super-sonic.tv/tv-live/
 
  
@@ -639,8 +637,8 @@ group-title="Music - מוזיקה"
 tvg-logo="http://upload.wikimedia.org/wikipedia/ro/7/77/KissTV_nou.jpg",Kiss
 TV
 
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live
-swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/
+playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf
 pageUrl=http://www.kisstelevision.es/
 
  
@@ -684,8 +682,8 @@ http://127.0.0.1:65007/?url=http%3A//www.i24news.tv/fr/tv/live&mode=18
 
  
 
-#EXTINF:-1 tvg-id="i24News Arabic" group-title="News
-- חדשות"
+#EXTINF:-1 tvg-id="i24News Arabic"
+group-title="News - חדשות"
 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png",i24News
 Arabic
 
@@ -897,8 +895,8 @@ http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?
 
  
 
-#EXTINF:-1 tvg-id="BFM SPORT" group-title="News
-- חדשות"
+#EXTINF:-1 tvg-id="BFM SPORT"
+group-title="News - חדשות"
 tvg-logo="",BFM SPORT
 
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8
@@ -957,8 +955,8 @@ http://rt-eng-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
 
  
 
-#EXTINF:-1 tvg-id="Russia Today Arabic" group-title="News
-- חדשות"
+#EXTINF:-1 tvg-id="Russia Today Arabic"
+group-title="News - חדשות"
 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_america.png",Russia
 Today Arabic
 
@@ -966,8 +964,7 @@ http://rt-eng-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
 
  
 
-#EXTINF:-1 tvg-id="CGTN" group-title="News - חדשות"
-tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN
+#EXTINF:-1 tvg-id="CGTN" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN
 
 http://live.cgtn.com/1000/prog_index.m3u8
 
@@ -991,8 +988,8 @@ http://live.cgtn.com/1000e/prog_index.m3u8
 
  
 
-#EXTINF:-1 tvg-id="CGTN Arabic" group-title="News
-- חדשות"
+#EXTINF:-1 tvg-id="CGTN Arabic"
+group-title="News - חדשות"
 tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN
 Arabic
 
@@ -1114,8 +1111,8 @@ http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m
 
  
 
-#EXTINF:-1 tvg-id="Press TV" group-title="News
-- חדשות"
+#EXTINF:-1 tvg-id="Press TV"
+group-title="News - חדשות"
 tvg-logo="http://upload.wikimedia.org/wikipedia/en/2/23/PressTV.png",Press
 TV
 
@@ -1301,8 +1298,7 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DZx98moCvkpU&mo
  
 
 #EXTINF:-1 tvg-id="ERT2" group-title="Greece
-- יוון"
-tvg-logo="",ERT2
+- יוון" tvg-logo="",ERT2
 
 http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DqBxbnSwOrxE&mode=3
 
@@ -1374,7 +1370,8 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
  
 
 #EXTINF:-1 tvg-id="N-TV" group-title="Germany
-- גרמניה" tvg-logo="http://static.filmon.com/couch/channels/1033/extra_big_logo.png",N-TV
+- גרמניה"
+tvg-logo="http://static.filmon.com/couch/channels/1033/extra_big_logo.png",N-TV
 
 http://p.live.fra.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
 
@@ -1444,8 +1441,8 @@ http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="ZDF HD"
-group-title="Germany - גרמניה"
+#EXTINF:-1 tvg-id="ZDF HD" group-title="Germany
+- גרמניה"
 tvg-logo="http://static.filmon.com/couch/channels/2759/extra_big_logo.png",ZDF
 HD
 
@@ -1470,8 +1467,8 @@ http://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8|X-Forwarded-For=91.1
 
  
 
-#EXTINF:-1 tvg-id="ZDF INFOKANAL" group-title="Germany
-- גרמניה"
+#EXTINF:-1 tvg-id="ZDF INFOKANAL"
+group-title="Germany - גרמניה"
 tvg-logo="",ZDF INFOKANAL
 
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
@@ -1636,8 +1633,7 @@ http://b2.stream14.rai.it/italy/rai1_1200/chunklist.m3u8
  
 
 #EXTINF:-1 tvg-id="RAI 2" group-title="Italy
-- איטליה"
-tvg-logo="http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png",RAI
+- איטליה" tvg-logo="http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png",RAI
 2
 
 http://b2.stream14.rai.it/italy/rai2_1200/chunklist.m3u8
@@ -1770,8 +1766,8 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="amarintv"
-group-title="thailand - תאילנד"
+#EXTINF:-1 tvg-id="amarintv" group-title="thailand
+- תאילנד"
 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/10/amarin-tv-vsn1.png",amarintv
 
 http://202.170.120.228:1935/stream/5195e80fe1ed0/playlist.m3u8
@@ -1795,8 +1791,8 @@ http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
 
  
 
-#EXTINF:-1 tvg-id="CH 5"
-group-title="thailand - תאילנד"
+#EXTINF:-1 tvg-id="CH 5" group-title="thailand
+- תאילנד"
 tvg-logo="http://www.tv5.co.th/web56/command/tv5.png",CH 5
 
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
@@ -1811,8 +1807,8 @@ http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="CH 3" group-title="thailand
-- תאילנד"
+#EXTINF:-1 tvg-id="CH 3"
+group-title="thailand - תאילנד"
 tvg-logo="",CH 3
 
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
@@ -1960,8 +1956,8 @@ http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.
 
  
 
-#EXTINF:-1 tvg-id="youchannel" group-title="thailand
-- תאילנד"
+#EXTINF:-1 tvg-id="youchannel"
+group-title="thailand - תאילנד"
 tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg",youchannel
 
 http://stream.rs.co.th/you-hi/index.m3u8|X-Forwarded-For=110.170.117.3
@@ -2019,8 +2015,8 @@ http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="JCTV" group-title="thailand
-- תאילנד"
+#EXTINF:-1 tvg-id="JCTV"
+group-title="thailand - תאילנד"
 tvg-logo="",JCTV
 
 rtmp://vodjctv.aitstreaming.com:1935/live/live2
@@ -2184,8 +2180,8 @@ http://89.45.186.26:1935/live/prahovatv/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="PloiestiTv" group-title="Romania
-- רומניה"
+#EXTINF:-1 tvg-id="PloiestiTv"
+group-title="Romania - רומניה"
 tvg-logo="",PloiestiTv
 
 http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
@@ -2290,8 +2286,8 @@ rtmp://91.82.85.71:1935/liverelay/fehervartv.sdp
 
  
 
-#EXTINF:-1 tvg-id="TRT1HD" group-title="Turkey
-- טורקיה"
+#EXTINF:-1 tvg-id="TRT1HD"
+group-title="Turkey - טורקיה"
 tvg-logo="http://4.bp.blogspot.com/-iiA6Z09bFFw/UXj30M6nc0I/AAAAAAAAga0/lA-dDC60EW4/s1600/trt-1-izle.png",TRT1HD
 
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
@@ -2306,8 +2302,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="TRT Haber"
-group-title="Turkey - טורקיה"
+#EXTINF:-1 tvg-id="TRT Haber" group-title="Turkey
+- טורקיה"
 tvg-logo="http://www.haberyurdum.com/images/editor/images/trt-haber.png",TRT
 Haber
 
@@ -2341,8 +2337,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="TRT Belgesel"
-group-title="Turkey - טורקיה"
+#EXTINF:-1 tvg-id="TRT Belgesel" group-title="Turkey
+- טורקיה"
 tvg-logo="",TRT Belgesel
 
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
@@ -2437,8 +2433,8 @@ http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="SHOW MAX"
-group-title="Turkey - טורקיה"
+#EXTINF:-1 tvg-id="SHOW MAX" group-title="Turkey
+- טורקיה"
 tvg-logo="",SHOW MAX
 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
@@ -2485,8 +2481,8 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DK59KKnIbIaM&mo
 
  
 
-#EXTINF:-1 tvg-id="Россия 1"
-group-title="Russia - רוסיה"
+#EXTINF:-1 tvg-id="Россия 1" group-title="Russia
+- רוסיה"
 tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 1
 
 http://127.0.0.1:65007/?url=1&mode=51
@@ -2558,7 +2554,8 @@ http://127.0.0.1:65007/?url=1&mode=53
  
 
 #EXTINF:-1 tvg-id="MIR" group-title="Russia -
-רוסיה" tvg-logo="",MIR
+רוסיה"
+tvg-logo="",MIR
 
 http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv_mobil/playlist.m3u8
 
@@ -2597,7 +2594,8 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 
  
 
-#EXTINF:-1 tvg-id="24h" group-title="Spain - ספרד" tvg-logo="http://static.filmon.com/couch/channels/2777/extra_big_logo.png",24h
+#EXTINF:-1 tvg-id="24h" group-title="Spain - ספרד"
+tvg-logo="http://static.filmon.com/couch/channels/2777/extra_big_logo.png",24h
 
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
 
@@ -2613,16 +2611,14 @@ http://178.32.255.199:1935/live/hispantv/playlist.m3u8
  
 
 #EXTINF:-1 tvg-id="NEOX" group-title="Spain -
-ספרד"
-tvg-logo="http://www.tavo.es/studio/wp-content/uploads/vector__0004_Group-1.jpg",NEOX
+ספרד" tvg-logo="http://www.tavo.es/studio/wp-content/uploads/vector__0004_Group-1.jpg",NEOX
 
 http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
 
  
 
 #EXTINF:-1 tvg-id="NOVA" group-title="Spain -
-ספרד"
-tvg-logo="",NOVA
+ספרד" tvg-logo="",NOVA
 
 Http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 
@@ -2669,8 +2665,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/playli
 
  
 
-#EXTINF:-1 tvg-id="TV Galicia" group-title="Spain
-- ספרד"
+#EXTINF:-1 tvg-id="TV Galicia"
+group-title="Spain - ספרד"
 tvg-logo="",TV Galicia
 
 http://media3.crtvg.es/live/tvga/chunklist.m3u8
@@ -2781,7 +2777,8 @@ tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/8/0/2080123/208012
 Pública
 
 http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0
-(Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+(Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101
+Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
 
  
 
