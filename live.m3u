@@ -1,175 +1,5 @@
 
 
-#EXTINF:-1,FOX NEWS
-
-http://62.167.57.5:1009/play/a003
-
-#EXTINF:-1,Fox News HD
-
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
-#EXTINF:-1,Fox 23 News
-
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
-
-#EXTINF:-1,HBO HD
-
-http://158.69.24.208:8081/live/Franciscocesar/DjFHC84848/473.ts
-
-#EXTINF:-1,HBO SD
-
-http://158.69.24.208:8081/live/Franciscocesar/DjFHC84848/1031.ts
-
-#EXTINF:-1,Investigation Discovery UK
-
-http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3465.ts
-
-#EXTINF:-1,Weather Nation Tv
-
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:-1,Weather Channel
-
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1,ABC NEWS
-
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-
-#EXTINF:-1,Al Jazeera
-
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-
-#EXTINF:-1,BBC WORLD NEWS
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-#EXTINF:-1,Bloomberg
-
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
-#EXTINF:-1,CBN NEWS
-
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1,CBN NEWS
-
-http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-#EXTINF:-1,C-SPAN
-
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-1,C-SPAN 2
-
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-1,C-SPAN 3
-
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-1,CNN International
-
-http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
-
-#EXTINF:-1,CNN International
-
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8910.ts
-
-#EXTINF:-1,DW USA
-
-http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
-
-#EXTINF:-1,DW NEWS
-
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
-
-#EXTINF:-1,InfoWars
-
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-
-#EXTINF:-1,Fox News Radio
-
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-
-#EXTINF:-1,FOX NEWS 23
-
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
-
-#EXTINF:-1,FOX 25 NEWS
-
-http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
-
-#EXTINF:-1,FOX 30 NEWS
-
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-
-#EXTINF:-1,FOX 59 NEWS
-
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-
-#EXTINF:-1,France 24
-
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
-
-#EXTINF:-1,NEWSMAX TV
-
-http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
-
-#EXTINF:-1,MSNBC
-
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-
-#EXTINF:-1,MSNBC
-
-http://sky@tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8?sd=10
-
-#EXTINF:-1,Press TV
-
-http://178.32.255.199:1935/live/ptven/playlist.m3u8
-
-#EXTINF:-1,RT Documentary
-
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-
-#EXTINF:-1,Rusia Today
-
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-
-#EXTINF:-1,Sky NEWS
-
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skyNEWS/1404/live/04.m3u8
-
-#EXTINF:-1,Channel NEWS Asia
-
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-
-#EXTINF:-1,VoA
-
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1,China CCTV 13
-
-http://61.155.167.11/live/cctv13.m3u8
-
-#EXTINF:-1,Syria News
-
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-
-#EXTINF:-1,Nigeria TVC News
-
-http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
-
-#EXTINF:-1,TRT WORLD
-
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1,WGN Chicago
-
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
- 
-
 #EXTINF:-1 tvg-id="London Live"
 group-title="Entertainment - בידור"
 tvg-logo="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/618/?sURL=http://offlinehbpl.hbpl.co.uk/News/OMC/LondonLiveWeb-20131023010320820.jpg",London
@@ -216,8 +46,8 @@ timeout=15
 
  
 
-#EXTINF:-1 tvg-id="ALL THE KPOP"
-group-title="Entertainment - בידור"
+#EXTINF:-1 tvg-id="ALL THE KPOP" group-title="Entertainment
+- בידור"
 tvg-logo="https://yt3.ggpht.com/-QjhqvLdYqrk/AAAAAAAAAAI/AAAAAAAAAAA/2wsx5GKklCc/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",ALL
 THE KPOP
 
@@ -234,8 +64,8 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D5FcHZ5Dj7WE&mo
 
  
 
-#EXTINF:-1 tvg-id="DAYSTAR"
-group-title="Entertainment - בידור"
+#EXTINF:-1 tvg-id="DAYSTAR" group-title="Entertainment
+- בידור"
 tvg-logo="http://static.filmon.com/couch/channels/833/extra_big_logo.png",DAYSTAR
 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master_720p.m3u8
@@ -258,8 +88,8 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=21960827
 
  
 
-#EXTINF:-1 tvg-id="Angel TV" group-title="Entertainment
-- בידור"
+#EXTINF:-1 tvg-id="Angel TV"
+group-title="Entertainment - בידור"
 tvg-logo="http://www.revivaltvonline.com/images/Logo/angels-tv.jpg",Angel
 TV
 
@@ -463,8 +293,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.
 
  
 
-#EXTINF:-1 tvg-id="1music.ro" group-title="Music
-- מוזיקה"
+#EXTINF:-1 tvg-id="1music.ro"
+group-title="Music - מוזיקה"
 tvg-logo="http://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg",1music.ro
 
 http://127.0.0.1:65007/?url=http%3A//www.livestream.com/1_music_channel/&mode=3
@@ -514,8 +344,8 @@ rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
 
  
 
-#EXTINF:-1 tvg-id="eska party" group-title="Music
-- מוזיקה"
+#EXTINF:-1 tvg-id="eska party"
+group-title="Music - מוזיקה"
 tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",eska
 party
 
@@ -580,7 +410,8 @@ group-title="Music - מוזיקה"
 tvg-logo="http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png",Virgin
 TV
 
-rtmp://fms.105.net:1935/live/ playpath=virgin1 swfUrl=http://www.widih.org/player.swf
+rtmp://fms.105.net:1935/live/ playpath=virgin1
+swfUrl=http://www.widih.org/player.swf
 pageUrl=http://www.widih.org/watch-tv/357/virgin-1 live=1 timeout=10
 
  
@@ -618,7 +449,8 @@ group-title="Music - מוזיקה"
 tvg-logo="http://www.lyngsat-logo.com/hires/ss/supersonic_tv_al.png",Supersonic
 TV
 
-rtmp://str103.setplex.net:1935/228 playpath=stv_online swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf
+rtmp://str103.setplex.net:1935/228 playpath=stv_online
+swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf
 live=1 pageUrl=http://online.super-sonic.tv/tv-live/
 
  
@@ -654,8 +486,8 @@ pageUrl=http://www.russianmusicbox.tv/
 
  
 
-#EXTINF:-1 tvg-id="Music Box Ukraine"
-group-title="Music - מוזיקה"
+#EXTINF:-1 tvg-id="Music Box Ukraine" group-title="Music
+- מוזיקה"
 tvg-logo="http://www.abload.de/img/musicv0pjo.png",Music Box Ukraine
 
 rtmp://212.26.132.86/live/ playpath=mb_ua
@@ -718,8 +550,7 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&r
  
 
 #EXTINF:-1 tvg-id="NewsMAX" group-title="News
-- חדשות"
-tvg-logo="http://static.filmon.com/couch/channels/3223/extra_big_logo.png",NewsMAX
+- חדשות" tvg-logo="http://static.filmon.com/couch/channels/3223/extra_big_logo.png",NewsMAX
 
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8?sd=10&rebase=on
 
@@ -815,8 +646,8 @@ http://127.0.0.1:65007/?url=pt&mode=54
 
  
 
-#EXTINF:-1 tvg-id="Euronews Greece" group-title="News
-- חדשות"
+#EXTINF:-1 tvg-id="Euronews Greece"
+group-title="News - חדשות"
 tvg-logo="http://static.filmon.com/couch/channels/2909/extra_big_logo.png",Euronews
 Greece
 
@@ -1202,8 +1033,8 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="Dubai Racing" group-title="Sport
-- ספורט"
+#EXTINF:-1 tvg-id="Dubai Racing"
+group-title="Sport - ספורט"
 tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg",Dubai
 Racing
 
@@ -1281,8 +1112,8 @@ pageUrl=http://www.tvlizer.com/weo-tv-fra/
 
  
 
-#EXTINF:-1 tvg-id="matele"
-group-title="France - צרפת"
+#EXTINF:-1 tvg-id="matele" group-title="France
+- צרפת"
 tvg-logo="",matele
 
 http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/playlist.m3u8
@@ -1298,7 +1129,8 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DZx98moCvkpU&mo
  
 
 #EXTINF:-1 tvg-id="ERT2" group-title="Greece
-- יוון" tvg-logo="",ERT2
+- יוון"
+tvg-logo="",ERT2
 
 http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DqBxbnSwOrxE&mode=3
 
@@ -1441,8 +1273,8 @@ http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="ZDF HD" group-title="Germany
-- גרמניה"
+#EXTINF:-1 tvg-id="ZDF HD"
+group-title="Germany - גרמניה"
 tvg-logo="http://static.filmon.com/couch/channels/2759/extra_big_logo.png",ZDF
 HD
 
@@ -1563,8 +1395,8 @@ http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/index_7_av-b.m
 
  
 
-#EXTINF:-1 tvg-id="rbb HD"
-group-title="Germany - גרמניה"
+#EXTINF:-1 tvg-id="rbb HD" group-title="Germany
+- גרמניה"
 tvg-logo="",rbb HD
 
 http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_7_av-b.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
@@ -1587,8 +1419,8 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=
 
  
 
-#EXTINF:-1 tvg-id="ndr hamburg.md"
-group-title="Germany - גרמניה"
+#EXTINF:-1 tvg-id="ndr hamburg.md" group-title="Germany
+- גרמניה"
 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",ndr
 hamburg.md
 
@@ -1596,8 +1428,8 @@ http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="ndr meck pom.md"
-group-title="Germany - גרמניה"
+#EXTINF:-1 tvg-id="ndr meck pom.md" group-title="Germany
+- גרמניה"
 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",ndr
 meck pom.md
 
@@ -1605,8 +1437,8 @@ http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="ndr schlesw.md"
-group-title="Germany - גרמניה"
+#EXTINF:-1 tvg-id="ndr schlesw.md" group-title="Germany
+- גרמניה"
 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",ndr
 schlesw.md
 
@@ -1633,7 +1465,8 @@ http://b2.stream14.rai.it/italy/rai1_1200/chunklist.m3u8
  
 
 #EXTINF:-1 tvg-id="RAI 2" group-title="Italy
-- איטליה" tvg-logo="http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png",RAI
+- איטליה"
+tvg-logo="http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png",RAI
 2
 
 http://b2.stream14.rai.it/italy/rai2_1200/chunklist.m3u8
@@ -1727,8 +1560,8 @@ http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="rai gulp"
-group-title="Italy - איטליה"
+#EXTINF:-1 tvg-id="rai gulp" group-title="Italy
+- איטליה"
 tvg-logo="",rai gulp
 
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-b.m3u8?sd=10&rebase=on
@@ -1791,8 +1624,8 @@ http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
 
  
 
-#EXTINF:-1 tvg-id="CH 5" group-title="thailand
-- תאילנד"
+#EXTINF:-1 tvg-id="CH 5"
+group-title="thailand - תאילנד"
 tvg-logo="http://www.tv5.co.th/web56/command/tv5.png",CH 5
 
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
@@ -1991,8 +1824,8 @@ http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="thaichaiyotv"
-group-title="thailand - תאילנד"
+#EXTINF:-1 tvg-id="thaichaiyotv" group-title="thailand
+- תאילנד"
 tvg-logo="http://www.onlinethailand.net/tv_online/images/thaichaiyo.jpg",thaichaiyotv
 
 rtmp://live.thaichaiyotv.co.th:1935/thaichaiyotv/live
@@ -2248,8 +2081,7 @@ rtmp://video.fixhd.tv/fix/hd.stream
 group-title="Hungary - הונגריה"
 tvg-logo="",Konyha TV
 
-rtmpt://91.82.85.44:1935/live playpath=konyhatv
-swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf
+rtmpt://91.82.85.44:1935/live playpath=konyhatv swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf
 pageUrl=http://wdsonline.gdsinfo.com/itplayer/konyhatv_inc.php
 
  
@@ -2286,8 +2118,8 @@ rtmp://91.82.85.71:1935/liverelay/fehervartv.sdp
 
  
 
-#EXTINF:-1 tvg-id="TRT1HD"
-group-title="Turkey - טורקיה"
+#EXTINF:-1 tvg-id="TRT1HD" group-title="Turkey
+- טורקיה"
 tvg-logo="http://4.bp.blogspot.com/-iiA6Z09bFFw/UXj30M6nc0I/AAAAAAAAga0/lA-dDC60EW4/s1600/trt-1-izle.png",TRT1HD
 
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
@@ -2302,8 +2134,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="TRT Haber" group-title="Turkey
-- טורקיה"
+#EXTINF:-1 tvg-id="TRT Haber"
+group-title="Turkey - טורקיה"
 tvg-logo="http://www.haberyurdum.com/images/editor/images/trt-haber.png",TRT
 Haber
 
@@ -2337,8 +2169,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
  
 
-#EXTINF:-1 tvg-id="TRT Belgesel" group-title="Turkey
-- טורקיה"
+#EXTINF:-1 tvg-id="TRT Belgesel"
+group-title="Turkey - טורקיה"
 tvg-logo="",TRT Belgesel
 
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
@@ -2433,8 +2265,8 @@ http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-id="SHOW MAX" group-title="Turkey
-- טורקיה"
+#EXTINF:-1 tvg-id="SHOW MAX"
+group-title="Turkey - טורקיה"
 tvg-logo="",SHOW MAX
 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
@@ -2481,8 +2313,8 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DK59KKnIbIaM&mo
 
  
 
-#EXTINF:-1 tvg-id="Россия 1" group-title="Russia
-- רוסיה"
+#EXTINF:-1 tvg-id="Россия 1"
+group-title="Russia - רוסיה"
 tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 1
 
 http://127.0.0.1:65007/?url=1&mode=51
@@ -2611,14 +2443,16 @@ http://178.32.255.199:1935/live/hispantv/playlist.m3u8
  
 
 #EXTINF:-1 tvg-id="NEOX" group-title="Spain -
-ספרד" tvg-logo="http://www.tavo.es/studio/wp-content/uploads/vector__0004_Group-1.jpg",NEOX
+ספרד"
+tvg-logo="http://www.tavo.es/studio/wp-content/uploads/vector__0004_Group-1.jpg",NEOX
 
 http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
 
  
 
 #EXTINF:-1 tvg-id="NOVA" group-title="Spain -
-ספרד" tvg-logo="",NOVA
+ספרד"
+tvg-logo="",NOVA
 
 Http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 
@@ -2681,8 +2515,8 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 
  
 
-#EXTINF:-1 tvg-id="lasexta"
-group-title="Spain - ספרד"
+#EXTINF:-1 tvg-id="lasexta" group-title="Spain
+- ספרד"
 tvg-logo="",lasexta
 
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
@@ -2843,8 +2677,7 @@ group-title="Argentina - ארגנטינה"
 tvg-logo="",TVP
 
 http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0
-(Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101
-Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+(Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
 
  
 
@@ -2902,8 +2735,8 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DaxnhmU97Ktg&mo
 
  
 
-#EXTINF:-1 tvg-id="Canal 7 Mendoza"
-group-title="Argentina - ארגנטינה"
+#EXTINF:-1 tvg-id="Canal 7 Mendoza" group-title="Argentina
+- ארגנטינה"
 tvg-logo="",Canal 7 Mendoza
 
 http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DCk6wohdxivM&mode=3
@@ -2928,8 +2761,8 @@ Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X
 
  
 
-#EXTINF:-1 tvg-id="ORBE 21"
-group-title="Argentina - ארגנטינה"
+#EXTINF:-1 tvg-id="ORBE 21" group-title="Argentina
+- ארגנטינה"
 tvg-logo="",ORBE 21
 
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
